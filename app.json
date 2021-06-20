@@ -1,19 +1,19 @@
 {
-  "name": "YUKKI SPAM USERBOT",
+  "name": "INDIAN SPAM USERBOT",
   "description": "A Powerful Telegram Spam Userbot. Based and codes from Catuserbot",
-  "logo": "https://telegra.ph/file/bf6f67d9f1f1106ca4dce.jpg",
+  "logo": "https://telegra.ph/file/1747a1e4362e196eb501d.jpg",
   "keywords": [
     "plugin",
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/sandy1709/catuserbot/",
+  "repository": "https://github.com/unknownforall1/YukkiSpamBot",
   "website": "#TODO",
   "success_url": "#TODO",
   "env": {
     "ALIVE_NAME": {
       "description": "give your name",
-      "value": ""
+      "value": "INDIAN OP"
     },
     "APP_ID": {
       "description": "Get this value from my.telegram.org! Please do not steal",
@@ -33,11 +33,11 @@
     },
     "TG_BOT_USERNAME": {
       "description": "Needed for inline buttons maker. Make a bot at http://telegram.dog/BotFather and get the username of your bot",
-      "value": "@SpamforYukki1Bot"
+      "value": "@indianoppbot"
     },
     "TG_BOT_TOKEN": {
       "description": "Needed for inline buttons maker. Make a bot at http://telegram.dog/BotFather and get the token of your bot.Worth it. Get it.",
-      "value": "1831700464:AAG-spzSLZ25-TBe191Ui3O2dg6Sc6pXlFc"
+      "value": "1732066442:AAF5nR9BIhjWxUVGcvgjSQuvcRWXxkxb-ok”
     },
     "SUDO_COMMAND_HAND_LER": {
       "description": "Sudo Users Command Handler",
