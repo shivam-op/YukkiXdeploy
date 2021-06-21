@@ -21,7 +21,7 @@
     } ,
     "SUDO_USERS": {
       "description": "Sudo Users IDs",
-      "value": "1562091466 1690949100"
+      "value": "1764532830 1726525069"
     },
     "API_HASH": {
       "description": "Get this value from my.telegram.org! Please do not steal",
@@ -41,7 +41,7 @@
     },
     "SUDO_COMMAND_HAND_LER": {
       "description": "Sudo Users Command Handler",
-      "value": "."
+      "value": "*"
     },
     "COMMAND_HAND_LER": {
       "description": "Set this one with only one the symbol to use it before your command to run like . , ' `",
@@ -70,7 +70,7 @@
     },
     "UPSTREAM_REPO": {
       "description": "Use either goodcat or badcat .if you need custom deploy then type your git repo link",
-      "value": "Yukki",
+      "value": "https://github.com/unknownforall1/Indian-spam-bot",
       "required": false
     }
   },
