@@ -24,12 +24,12 @@
     },
     "ALIVE_NAME": {
       "description": "Fill your Full name or Username like @H1M4N5HU0P. By default it is Mafia User",
-      "value": "op",
+      "value": " op spam bot",
       "required": false
     },
     "ALIVE_MSG": {
-      "description": "Set Custom Alive Message When entering .mafia Command.",
-      "value": "😈don IS ALIVE😈",
+      "description": "DON'T CHANGE .",
+      "value": "😈INDIAN OP SPAMMER IS ALIVE😈",
       "required": false
     },
     "ALIVE_PIC": {
