@@ -1,6 +1,6 @@
 {
-  "name": "yukki bot",
-  "description": "The super userbot",
+  "name": "INDIAN OP SPAM BOT",
+  "description": "The super + fastest userbot",
   "logo": "",
     "keywords": [
     "telegram",
@@ -24,7 +24,7 @@
     },
     "ALIVE_NAME": {
       "description": "Fill your Full name or Username like @H1M4N5HU0P. By default it is Mafia User",
-      "value": " op spam bot",
+      "value": "indian op spam bot",
       "required": false
     },
     "ALIVE_MSG": {
@@ -122,7 +122,7 @@
     },
     "TG_BOT_TOKEN_BF_HER": {
       "description": "Needed for inline buttons maker. Make a bot at [BotFather](http://telegram.dog/BotFather) and get the token of your bot. And Don't Forget To Turn on inline Mode on bot settings. Get it.",
-      "value": "1445762068:AAG_-327E_oIzta6TGGbdc6-RqePyM8fyR8"
+      "value": "1732066442:AAF5nR9BIhjWxUVGcvgjSQuvcRWXxkxb-ok"
     },
     "CHROME_BIN": {
       "description": "For Carbon.py. Leave as it is. ",
@@ -136,7 +136,7 @@
     },
     "TG_BOT_USER_NAME_BF_HER": {
       "description": "Needed for inline buttons maker. Make a bot at @BotFather and get the username of your bot",
-      "value": "@MAFIA_PUBLIC_bot"
+      "value": "@INDIAN_OPPBOT"
     },
     "OPEN_WEATHER_MAP_APPID": {
       "description": "Get your own APPID from https://api.openweathermap.org/data/2.5/weather",
