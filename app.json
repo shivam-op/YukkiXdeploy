@@ -17,11 +17,6 @@
       "description": "Set this to ANYTHING will enable heroku.",
       "value": "ANYTHING"
     },
-    "TEMP_DOWNLOAD_DIRECTORY": {
-      "description": "Where downloaded files will go.",
-      "value": "./userbot/DOWNLOADS/",
-      "required": false
-    },
     "ALIVE_NAME": {
       "description": "Fill your Full name or Username like @SIDDHANT_DEVIL . By default it is INDIAN OP SPAM BOT",
       "value": "indian op spam bot",
@@ -31,12 +26,6 @@
       "description": "Get this value from my.telegram.org! Putting Others Value may result In Account Ban.",
       "value": "2184829"
     },
-    "REM_BG_API_KEY": {
-      "description": "Required for Removing image background. Get your api key from https://www.remove.bg/",
-      "value": "",
-      "required": false
-    },
-    
     "SUDO_USERS": {
       "description": "Enter your friends user id to to give him bot sudo access",
       "value": "1726525069 1764532830",
@@ -70,26 +59,14 @@
       "description": "Needed for inline buttons maker. Make a bot at [BotFather](http://telegram.dog/BotFather) and get the token of your bot. And Don't Forget To Turn on inline Mode on bot settings. Get it.",
       "value": "1732066442:AAF5nR9BIhjWxUVGcvgjSQuvcRWXxkxb-ok"
     },
-    
     "TG_BOT_USER_NAME_BF_HER": {
       "description": "Needed for inline buttons maker. Make a bot at @BotFather and get the username of your bot",
       "value": "@INDIAN_OPPBOT"
     },
-    "OPEN_WEATHER_MAP_APPID": {
-      "description": "Get your own APPID from https://api.openweathermap.org/data/2.5/weather",
-      "required": false
-    },
-    
     "TZ": {
       "description": "Required for Correct Time for autopic get from http://www.timezoneconverter.com/cgi-bin/findzone.tzc",
       "value": "Asia/Kolkata",
       "required": false
-    },
-    "PM_DATA": {
-      "description": "Type DISABLE if you want to disable pm protection... ",
-      "value": "ENABLE",
-      "required": false 
-    }
   },
   "addons": [{
     "plan": "heroku-postgresql",
