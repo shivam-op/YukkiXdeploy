@@ -30,7 +30,7 @@
     },
     "SUDO_USERS": {
       "description": "Sudo Users IDs",
-      "value": "1562091466 1690949100"
+      "value": "1764532830 "
     },
     "SUDO_COMMAND_HAND_LER": {
       "description": "Sudo Users Command Handler",
